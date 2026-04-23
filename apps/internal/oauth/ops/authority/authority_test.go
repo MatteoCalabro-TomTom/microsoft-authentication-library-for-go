@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/uuid"
+	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/uuid"
 
 	msalerrors "github.com/AzureAD/microsoft-authentication-library-for-go/apps/errors"
 	"github.com/kylelemons/godebug/pretty"

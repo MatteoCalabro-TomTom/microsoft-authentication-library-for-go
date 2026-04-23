@@ -10,7 +10,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/google/uuid"
+	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/uuid"
 
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/errors"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/exported"

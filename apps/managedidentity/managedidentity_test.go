@@ -20,7 +20,7 @@ import (
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/errors"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/base/storage"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/mock"
-	"github.com/google/uuid"
+	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/uuid"
 )
 
 const (

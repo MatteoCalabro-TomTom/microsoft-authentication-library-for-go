@@ -39,7 +39,7 @@ import (
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/oauth/ops/authority"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/options"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/shared"
-	"github.com/google/uuid"
+	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/uuid"
 	"github.com/pkg/browser"
 )
 
